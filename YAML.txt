@@ -1,0 +1,2 @@
+Terraform with Azure DevOps CI/CD Pipelines – Tutorial - https://spacelift.io/blog/terraform-azure-devops
+Create your first YAML pipeline - https://learn.microsoft.com/en-us/azure/devops/pipelines/create-first-pipeline?view=azure-devops&tabs=java%2Cbrowser
